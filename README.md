@@ -1,65 +1,81 @@
-<!-- Banner -->
-![Header Banner](https://user-images.githubusercontent.com/YOUR‑ID/banner.gif)
+<!-- Animated Typing Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ramesh+Adhikari;Full-Stack+Developer+%7C+Tech+Enthusiast;Loves+MERN+%26+Cloud+Tech;Open+Source+Contributor" alt="Typing Animation" />
+</h1>
 
-<!-- Greeting -->
-<h1 align="center">Hey there 👋, I'm **Ramesh Adhikari**</h1>
-<p align="center">Software Developer • Open Source Contributor • Tech Enthusiast</p>
-
-<!-- Coding Animation -->
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/YOUR‑ID/coding.gif" width="300" alt="Coding Animation">
-</p>
-
----
-
-## 🔭 What I'm Building
-- Building contributions in open source projects, essential tools, and learning new technologies like **Python**, **JavaScript**, and **Cloud**.
-
-## 🌱 Currently Learning
-**Reinforcing:**
-Python • Full-stack Web Dev  
-**Exploring:**
-Docker • Kubernetes • Machine Learning
-
-## 💬 Ask Me About
-Python, JavaScript, DevOps basics, and contributing to open source.
-
-<!-- GitHub Stats -->
+<!-- GIF Banner -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RameshAdhikari860&show_icons=true&theme=dark&count_private=true" alt="Ramesh's GitHub stats" />
+  <img src="./b1.gif" width="200"/> 
+  <img src="./b2.gif" width="200"/> 
+  <img src="./b3.gif" width="200"/> 
+  <img src="./b4.gif" width="200"/>
 </p>
 
 ---
 
-## 🛠️ Skills & Tools
+<!-- Neon Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
-| Languages         | Frameworks / Tools     |
-|------------------|-------------------------|
-| Python, JavaScript, C++ | Django, Flask, React |
-| Git, GitHub, Docker, Linux | REST APIs, SQL, Firebase |
+## 🚀 About Me
+- 🔥 Passionate **Full-Stack Developer**  
+- 🌱 Exploring **Cloud, Git Hosting, & DevOps**  
+- 💻 Skilled in **MERN, C, Python, Java, JavaScript**  
+- ⚡ Always learning and building cool stuff!  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+## 🛠️ Tech Stack
+
+### **Languages & Frameworks**
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### **Tools & Cloud**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RameshAdhikari860&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RameshAdhikari860&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RameshAdhikari860&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🔧 Projects & Highlights
-
-- **Project 1** – Short description or link to your notable repo.
-- **Project 2** – Another project or open source contribution.
-- ⚡ More pinned projects can go here!
-
----
-
-## 📬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)][linkedin]  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)][twitter]  
-[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail)](mailto:youremail@example.com)
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/RameshAdhikari860/RameshAdhikari860/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-### 🛎️ Thanks for visiting — let’s build something great!
+## ✨ Fun Quote
+> _"Code is like humor. When you have to explain it, it’s bad."_ 😎
 
-<div align="center">
-  <img src="https://github.com/kautukkundan/LinkedIn-Profile-Readme-Generator/blob/main/assets/wave.gif" width="50px" alt="wave"/>
-</div>
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+### 🏆 Keep Coding, Keep Growing 🚀
